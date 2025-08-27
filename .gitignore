@@ -9,3 +9,4 @@ GDP/
 # Ignore system files
 *.pyc
 __pycache__/
+ratings.csv
