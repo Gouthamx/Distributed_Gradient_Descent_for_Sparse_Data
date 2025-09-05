@@ -10,3 +10,4 @@ GDP/
 *.pyc
 __pycache__/
 ratings.csv
+results/
